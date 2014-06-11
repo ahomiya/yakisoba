@@ -1,6 +1,6 @@
 # [Yakisoba](https://github.com/ahomiya/yakisoba)
 
-[![onigiri](https://raw.githubusercontent.com/ahomiya/yakisoba/master/doc/img/project.png)](https://github.com/ahomiya/yakisoba)
+[![onigiri](https://raw.githubusercontent.com/ahomiya/yakisoba/master/doc/img/yakisoba.png)](https://github.com/ahomiya/yakisoba)
 
 焼きそば (Yakisoba) - Japanese fried noodles is a popular dish. Inspired by Chinese fried noodles, Yakisoba is made with cabbage, carrot, and pork. [Wikipedia](http://en.wikipedia.org/wiki/Yakisoba)
 
